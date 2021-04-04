@@ -132,8 +132,8 @@
 ```
 
 ## Screenshots
-<img src="#">
-<img src="#">
+<img src="https://raw.githubusercontent.com/SpecTEviL/My-VS-Code-Setup/main/ActivityBar%20Open.png">
+<img src="https://raw.githubusercontent.com/SpecTEviL/My-VS-Code-Setup/main/ActivityBar%20Closed.png">
 
 
 **Shortcut to Close/Open Activity Bar -** *"ctrl/cmd + B"*
